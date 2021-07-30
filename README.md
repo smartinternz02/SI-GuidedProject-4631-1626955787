@@ -13,6 +13,13 @@ An Automated Essay Grading System(using LSTM and Flask Integration) with helpful
 
 [Feedback video - Ashutosh Pandey](https://drive.google.com/drive/folders/1yAYxipRH-eJBhQvvdavKsfcz4n1qQTRt?usp=sharing)
 
+## Dataset:
+
+-Uploaded under Data Folder
+
+## Documents:
+
+- available (UPLOADED) : PPT, REPORT
 
 ## Libraries used:
 
@@ -20,6 +27,7 @@ An Automated Essay Grading System(using LSTM and Flask Integration) with helpful
 - Keras
 - Flask
 - Numpy
+- Pandas
 
 ## Tools used:
 
@@ -33,4 +41,6 @@ An Automated Essay Grading System(using LSTM and Flask Integration) with helpful
 - HTML
 - CSS
 
-I thank my mentor for the incredible support, the teachings and doubt clearing and I also thank the SMARTINTERNZ team for this incredible opportunity.
+## Acknowledgement:
+
+- I thank my mentor for the incredible support, the teachings and doubt clearing and I also thank the SMARTINTERNZ team for this incredible opportunity.
