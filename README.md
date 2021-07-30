@@ -15,7 +15,7 @@ An Automated Essay Grading System(using LSTM and Flask Integration) with helpful
 
 ## Dataset:
 
--Uploaded under Data Folder
+- Uploaded under Data Folder
 
 ## Documents:
 
