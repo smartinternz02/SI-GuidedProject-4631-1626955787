@@ -7,6 +7,3 @@ Pavan Kumar A
 Tanisha Mandal
 
 I thank my mentor for the incredible support, the teachings and doubt clearing and I also thank the SMARTINTERNZ team for this incredible opportunity.
-
-Note to mentor and SmartInternz Team:
-Imported from my original github as this is the mail id registered for SmartInternz
